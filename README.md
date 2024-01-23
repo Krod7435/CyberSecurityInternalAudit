@@ -2,7 +2,7 @@
 In this tab lab project, i made a YouTube video demonstrating how to create a Cybersecurity based internal audit. This projected consisted of using a fake generic business that needed a security internal audit done. The lab demonstrates the steps taken to conduct one.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
-  - [Active Directory Home Lab](https://github.com/Krod7435/ActiveDirectoryLabWork/edit/main/README.md)
+  - [Cybersecurity Internal Audit Home Lab](https://github.com/Krod7435/ActiveDirectoryLabWork/edit/main/README.md)
 
   <h2>Certifications</h2>
  - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RNV782V8DAYM)
