@@ -3,7 +3,7 @@ In this tab lab project, i made a YouTube video demonstrating how to create a Cy
 
 <h1>Cybersecurity Internal Audit Test Demonstration </h1>
 
- ### [YouTube Demonstration](https://youtu.be/tIzB36R4oX4?si=ZAEnXCjIvPhrDK2A)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=KZ9nXW2jIdI)
 
 <!--
  ```diff
