@@ -9,14 +9,7 @@ In this tab lab project, i made a YouTube video demonstrating how to create a Cy
 
  <h2>📺 YouTube Videos</h2>
 
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
+ 
 [linkedin]: https://www.linkedin.com/in/kiernan-rodriguez-2b444671/
 
 <!--
